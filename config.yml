@@ -1,0 +1,13 @@
+messages:
+    fire-disabled: "§cFire disabled."
+fire-allowed: false
+creeper:
+    harm-blocks: false
+    harm-players: false
+player:
+    harmed-by:
+        lava: true
+        TNT: true
+        fire: true
+        falling: true
+        starve: true
